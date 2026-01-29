@@ -66,3 +66,15 @@ uv run python ./path/to/myscript.py
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+...moo...
